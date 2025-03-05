@@ -71,5 +71,7 @@ cd /var/www/html/wordpress
 ```
 
 Now login to using https//publicip/wordpress
+
+
 Your wordpress is now ready up and running
 
